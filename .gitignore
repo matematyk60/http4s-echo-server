@@ -1,0 +1,21 @@
+# folders
+.idea
+.bloop
+.metals
+.vscode
+.hydra
+target
+lib
+classes
+
+# files
+*.iml
+*.sc
+*.swp
+protobufs/
+
+lib_managed
+
+project/metals.sbt
+.bloop/*
+.metals/*
